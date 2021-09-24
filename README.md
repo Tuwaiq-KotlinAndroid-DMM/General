@@ -3,12 +3,12 @@
 
 ### Instructional Team
 
-|Role        | Name            | Slack       | Email |
-|:--         | :--             | :--         | :-- |
-|Lead Instructor | Saad Iqbal | @saadiqbal | saad.iqbal@tuwaiq.edu.sa
-|Instructional Associate  | your name | slack | email
-|Instructional Associate | your name  | slack  | email
-|Instructional Associate | your name |  slack | email
+| Name            | Slack       | Email |
+| :--             | :--         | :-- |
+| Saad Iqbal | @saadiqbal | saad.iqbal@tuwaiq.edu.sa
+| Mohamed Fouad | @mohamedfouad | mohamed.fouad@tuwaiq.edu.sa
+| your name  | slack  | email
+| your name |  slack | email
 
 ### Course Information
 
